@@ -18,7 +18,7 @@
     </header>
     
     <main>
-      <h1>Tervetuloa putkifirman nimi -sivustolle!</h1>
+      <h1>Tämä ei ole putkifirma</h1>
       <p>Tarjoamme laadukkaita putkityötä, kuten...</p>
       <ul>
         <li>Putkien asennus</li>
