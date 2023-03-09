@@ -19,7 +19,7 @@
     
     <main>
       <h1>Tämä ei ole putkifirma</h1>
-      <p>Tarjoamme laadukkaita putkityötä, kuten...</p>
+      <p>Emme tarjoa vittu paskaakaan</p>
       <ul>
         <li>Putkien asennus</li>
         <li>Putkien korjaus</li>
